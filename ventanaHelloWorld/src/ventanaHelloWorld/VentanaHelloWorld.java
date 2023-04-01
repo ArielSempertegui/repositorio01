@@ -14,7 +14,8 @@ import java.awt.Font;
 /**
  * Esta Clase es una aplicacion de ventana
  * @author Ariel Sempertegui Soliz
- *
+ * @version 1.0
+ * @category Swing
  */
 public class VentanaHelloWorld {
 
