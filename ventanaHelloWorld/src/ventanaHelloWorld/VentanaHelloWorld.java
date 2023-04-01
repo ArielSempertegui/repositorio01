@@ -101,4 +101,5 @@ public class VentanaHelloWorld {
 		mi_ventana.getContentPane().add(txtF);
 		txtF.setColumns(10);
 	}
+	// Fin del Programa
 }
